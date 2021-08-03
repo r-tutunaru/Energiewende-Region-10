@@ -16,10 +16,10 @@ Bestandsanlagen
 ---------------
 
 Die Standorte und Nennleistung der Bestandsanlagen für die erneuerbaren Technologien (Windkraftanlagen, Dachflächenphotovoltaikanlagen, Freiflächenphotovoltaikanlagen, Biomasseanlagen, Biogasanlagen und Wasserkraftanlagen) sowie Batteriespeicher wurden mit folgenden Quellen ermittelt:
-  - `Stammdaten über EEG-Meldung der Anlagen <https://www.netztransparenz.de/EEG/Anlagenstammdaten>`_
-  - `Marktstammdatenregister <https://www.marktstammdatenregister.de/MaStR>`_
-  - `Energieatlas Bayern <https://www.energieatlas.bayern.de/>`_
-  - `Energymap <http://www.energymap.info/>`_
+ - `Stammdaten über EEG-Meldung der Anlagen <https://www.netztransparenz.de/EEG/Anlagenstammdaten>`_
+ - `Marktstammdatenregister <https://www.marktstammdatenregister.de/MaStR>`_
+ - `Energieatlas Bayern <https://www.energieatlas.bayern.de/>`_
+ - `Energymap <http://www.energymap.info/>`_
   
 
 
@@ -57,7 +57,7 @@ Windkraft
 Flächenpotenzialanalyse
 +++++++++++++++++++++++
 
-Es wurde eine Flächenpotenzialanalyse anhand vorhandener Flächennutzung (siehe verwendete Geodaten) durchgeführt. Für Windkraftanlagen geeignete Flächen werden ermittelt, indem vom Planungsraum Restriktionsflächen (Tabuzonen unterteilt in harte und weiche Kriterien sowie Abstandsregelungen), die nicht für Windkraftanlagen geeignet sind (unter anderem auf Grund von Naturschutz-, Lärmschutzverordnungen oder vorhandener Infrastruktur) ausgeschlossen werden. Die Restriktionsflächen und Abstandsregelungen werden anhand der Gebietskulisse Windkraft des LfU Bayern (`Quelle 1 <https://www.energieatlas.bayern.de/file/pdf/823/Erl%C3%A4uterungen-Nutzungsbedingungen_GK-Wind.pdf>`_ und `Quelle 2 <https://www.energieatlas.bayern.de/file/pdf/1213/GK-Wind_Themenuebersicht_EA-B.pdf>`_), Umweltbundesamt (`Potenzial der Windenergie an Land <https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/potenzial_der_windenergie.pdf>`_, Teilflächennutzungspläne für Windkraft (z. B. `Eichstätt <https://www.eichstaett.de/rathaus/informationen/bauleitplanverfahren/flaechennutzungsplan/>`_ und `Pfaffenhofen a.d. Ilm <https://pfaffenhofen.de/dokumente/83/Sachlicher_Teilflaechennutzungsplan__Windkraft__zWJFRSx.PDF>`_ und Gesprächen mit Anlagenplanern bestimmt.
+Es wurde eine Flächenpotenzialanalyse anhand vorhandener Flächennutzung (siehe verwendete Geodaten) durchgeführt. Für Windkraftanlagen geeignete Flächen werden ermittelt, indem vom Planungsraum Restriktionsflächen (Tabuzonen unterteilt in harte und weiche Kriterien sowie Abstandsregelungen), die nicht für Windkraftanlagen geeignet sind (unter anderem auf Grund von Naturschutz-, Lärmschutzverordnungen oder vorhandener Infrastruktur) ausgeschlossen werden. Die Restriktionsflächen und Abstandsregelungen werden anhand der Gebietskulisse Windkraft des LfU Bayern (`Quelle 1 <https://www.energieatlas.bayern.de/file/pdf/823/Erl%C3%A4uterungen-Nutzungsbedingungen_GK-Wind.pdf>`_ und `Quelle 2 <https://www.energieatlas.bayern.de/file/pdf/1213/GK-Wind_Themenuebersicht_EA-B.pdf>`_), Umweltbundesamt (`Potenzial der Windenergie an Land <https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/potenzial_der_windenergie.pdf>`_), Teilflächennutzungspläne für Windkraft (z. B. `Eichstätt <https://www.eichstaett.de/rathaus/informationen/bauleitplanverfahren/flaechennutzungsplan/>`_ und `Pfaffenhofen a.d. Ilm <https://pfaffenhofen.de/dokumente/83/Sachlicher_Teilflaechennutzungsplan__Windkraft__zWJFRSx.PDF>`_) und Gesprächen mit Anlagenplanern bestimmt.
 
 +----------------------------------------------------------+-----------------+
 | **Harte Restriktionen (Tabuzonen)**                                        |
@@ -120,7 +120,7 @@ Es wurde eine Flächenpotenzialanalyse anhand vorhandener Flächennutzung (siehe
 +----------------------------------------------------------+-----------------+
 | Vorrang- und Vorbehaltsgebiete für die Rohstoffgewinnung |        0        | 
 +----------------------------------------------------------+-----------------+
-| Technische Infrastruktur und Vorbelastung                                  | 
+| **Technische Infrastruktur und Vorbelastung**                              |
 +----------------------------------------------------------+-----------------+
 | Bundesautobahn                                           |       160       |    
 +----------------------------------------------------------+-----------------+
@@ -346,16 +346,14 @@ Wasserkraft
 ...........
 
 Das Wasserkraftpotenzial der Donau ist größtenteils ausgeschöpft (`Potenzialstudie E.ON Wasserkraft GmbH und Bayerische Elektrizitätswerke GmbH
-<https://www.energieatlas.bayern.de/file/pdf/2054/potentialstudie_EON.pdf>`_
-). Eine Potentialerhöhung ist nur durch Nachrüstung oder Modernisierung möglich. Das so rauszuholende Potential wurde anhand der Potenzialstudie und in Fachgesprächen mit dem `Bayerischen Landesamt für Umwelt
+<https://www.energieatlas.bayern.de/file/pdf/2054/potentialstudie_EON.pdf>`_). Eine Potentialerhöhung ist nur durch Nachrüstung oder Modernisierung möglich. Das so rauszuholende Potential wurde anhand der Potenzialstudie und in Fachgesprächen mit dem `Bayerischen Landesamt für Umwelt
 <https://www.lfu.bayern.de/index.htm>`_ diskutiert und auf 10 % festgelegt.
 
 Tiefengeothermie
 ................
 
 Die geologischen Voraussetzung für die Nutzung von Tiefengeothermie sind in der Region 10 nicht gegeben (`LfU Bayern
-<https://www.lfu.bayern.de/index.htm>`_
-).
+<https://www.lfu.bayern.de/index.htm>`_).
 
 Konventionelle Kraftwerke
 .........................
@@ -385,7 +383,7 @@ Zentrale Batteriespeicher (Verteilung frei in der Region 10)
 Verteilung abhängig von Anzahl der Mittelspannungsnetze in Deutschland. Jedes zehnte Mittelspannungsnetz in Deutschland wird mit zentralen Stromspeichern ausgerüstet (In der Region 10 ca. 30 Mittelspannungsnetze).
 Pro Standort je eine:
  - Lithium-Ionen Batterie (Leistung: 560 kW, Kapazität: 560 kWh)
- - Redox-Flow Batterie (Leistung: 200 kW, Kapazität: 1600 kWh)
+ - Redox-Flow Batterie (Leistung: 200 kW, Kapazität: 1.600 kWh)
 
 Verbrauchsdaten Stromsektoren
 -----------------------------
@@ -404,8 +402,7 @@ Wärmepumpen
 ...........
 
 Wärmepumpenbestand in Deutschland und Bayern (Quelle: `Bundesverband Wärmepumpe (BDW e.V.)
-<https://www.waermepumpe.de/presse/zahlen-daten/>`_
-)
+<https://www.waermepumpe.de/presse/zahlen-daten/>`_)
 Grundsätzlich eignet sich die Region 10 für Grundwasser-, Sole- und Luftwärmepumpen (Quelle: `LfU Bayern
 <https://www.lfu.bayern.de/index.htm>`_
 , `BWP-Branchenstudie 2015
@@ -416,12 +413,11 @@ Berechnung des Bestands und Potenzials der Region 10 anhand
 `Bevölkerungszahlen und -entwicklung
 <https://www.ingolstadt.de/output/download.php?fid=3052.5144.1.PDF>`_
 und Wohngebäudebestand (Alter, Größe, Wohneinheiten, Leerstand etc.) nach `Zensus 2011
-<https://ergebnisse2011.zensus2022.de/datenbank/online/>`_
-.
+<https://ergebnisse2011.zensus2022.de/datenbank/online/>`_.
 
 Referenzanlage: Jahresstromverbrauch ca. 3.600 kWh (Auswahl anhand temperaturabhängige Verbrauchszeitreihe und `Wärmepumpen Verbrauchsdatenbank
 <https://www.waermepumpen-verbrauchsdatenbank.de/index.php?button=verbrauch>`_
-für eine durchschnittliche Wohnfläche von 100 m²) .
+für eine durchschnittliche Wohnfläche von 100 m²).
 
 Elektromobilität
 ................
@@ -429,20 +425,16 @@ Elektromobilität
 Durchschnittliche Jahresfahrleistung 2019
 +++++++++++++++++++++++++++++++++++++++++
 
-13.602 km pro Fahrzeug (Quelle: `Kraftfahrtbundesamt
-<https://www.kba.de/DE/Statistik/Kraftverkehr/VerkehrKilometer/vk_inlaenderfahrleistung/vk_inlaenderfahrleistung_inhalt.html>`_
+13.602 km pro Fahrzeug (Quelle: `Kraftfahrtbundesamt <https://www.kba.de/DE/Statistik/Kraftverkehr/VerkehrKilometer/vk_inlaenderfahrleistung/vk_inlaenderfahrleistung_inhalt.html>`_)
 
-Aufgrund der hohen PKW-Dichte der Stadt Ingolstadt (`Platz 1 im Vergleich zu anderen bayerischen Großsstädten
-<https://www.ingolstadt.de/Home/Hohe-Pkw-Dichte-in-Ingolstadt.php?object=tx,2789.5&ModID=7&FID=3052.11361.1&NavID=2789.411>`_
-) wurde im Tool eine durschnittliche Jahresfahrleistung von 13.500 km angenommen.
+Aufgrund der hohen PKW-Dichte der Stadt Ingolstadt (`Platz 1 im Vergleich zu anderen bayerischen Großstädten
+<https://www.ingolstadt.de/Home/Hohe-Pkw-Dichte-in-Ingolstadt.php?object=tx,2789.5&ModID=7&FID=3052.11361.1&NavID=2789.411>`_) wurde im Tool eine durschnittliche Jahresfahrleistung von 13.500 km angenommen.
 
 Anzahl von Verbrennerfahrzeugen und Elektrofahrzeugen 2019
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Insgesamt 333.608 Fahrzeuge, davon 1.500 Elektrofahrzeuge (BEV - batteriebetriebener Elektromotor)
-(Quelle: `Kraftfahrtbundesamt
-<https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/ZulassungsbezirkeGemeinden/b_zulassungsbezirke_inhalt.html;jsessionid=11E3DF9FA389532B681BCE5D2C38B6FF.live11311?nn=2598042>`_
-)
+(Quelle: `Kraftfahrtbundesamt <https://www.kba.de/DE/Statistik/Fahrzeuge/Bestand/ZulassungsbezirkeGemeinden/b_zulassungsbezirke_inhalt.html;jsessionid=11E3DF9FA389532B681BCE5D2C38B6FF.live11311?nn=2598042>`_)
 
 Durchschnittlicher Stromverbrauch Elektrofahrzeuge
 ++++++++++++++++++++++++++++++++++++++++++++++++++

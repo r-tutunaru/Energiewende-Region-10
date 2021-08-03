@@ -54,8 +54,8 @@ Flächenpotenzial
 ++++++++++++++++
 
   - Gebietskulisse Windkraft des LfU Bayern (`Quelle 1 <https://www.energieatlas.bayern.de/file/pdf/823/Erl%C3%A4uterungen-Nutzungsbedingungen_GK-Wind.pdf>`_ und `Quelle 2 <https://www.energieatlas.bayern.de/file/pdf/1213/GK-Wind_Themenuebersicht_EA-B.pdf>`_)
-  - Umweltbundesamt (`Potenzial der Windenergie an Land <https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/potenzial_der_windenergie.pdf>`_ 
-  - Teilflächennutzungspläne für Windkraft (z. B. `Eichstätt <https://www.eichstaett.de/rathaus/informationen/bauleitplanverfahren/flaechennutzungsplan/>`_ und `Pfaffenhofen a.d. Ilm <https://pfaffenhofen.de/dokumente/83/Sachlicher_Teilflaechennutzungsplan__Windkraft__zWJFRSx.PDF>`_
+  - Umweltbundesamt (`Potenzial der Windenergie an Land <https://www.umweltbundesamt.de/sites/default/files/medien/378/publikationen/potenzial_der_windenergie.pdf>`_)
+  - Teilflächennutzungspläne für Windkraft (z. B. `Eichstätt <https://www.eichstaett.de/rathaus/informationen/bauleitplanverfahren/flaechennutzungsplan/>`_ und `Pfaffenhofen a.d. Ilm <https://pfaffenhofen.de/dokumente/83/Sachlicher_Teilflaechennutzungsplan__Windkraft__zWJFRSx.PDF>`_)
   - `TA Lärm <http://www.verwaltungsvorschriften-im-internet.de/bsvwvbund_26081998_IG19980826.htm>`_
   - `Zonierungskonzept Naturpark Altmühltal <https://www.landkreis-eichstaett.de/media/zonierung/bericht_zk_altmuehltal_30112012.pdf>`_
   
@@ -153,7 +153,7 @@ Batteriespeicher
 Modellierung
 ------------
 
-  - `Open Energy System Modelling Framework (oemof) <https://oemof.readthedocs.io/en/stable/index.html>`_ (MIT Licence - Copyright (c) 2014-2020, oemof developer group
+  - `Open Energy System Modelling Framework (oemof) <https://oemof.readthedocs.io/en/stable/index.html>`_ (MIT Licence - Copyright (c) 2014-2021, oemof developer group
 
 Erzeugungszeitreihen
 --------------------

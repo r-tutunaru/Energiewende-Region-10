@@ -29,8 +29,8 @@ Mensch in Bewegung
 
 Das Tool „Energiewende regionalisieren“ ist während des Projekts „Mensch in Bewegung“, welches vom Bundesministerium für Bildung und Forschung (BMBF) gefördert wird, entwickelt worden. „Mensch in Bewegung“ ist ein gemeinsames Projekt der Technischen Hochschule Ingolstadt (THI) und der Katholischen Universität Eichstätt-Ingolstadt (KU). Welche neuen Ideen gibt es für die Mobilität? Wie kann sich die Region 10 nachhaltig entwickeln? Wie lässt sich die digitale Transformation in der Lebens- und Arbeitswelt gut gestalten? Und wie kann bürgerschaftliches Engagement bei den Herausforderungen unserer Zeit helfen? Das sind die zentralen Fragen des Projekts. Die THI ist mit ihrem technischen und wirtschaftlichen Schwerpunkt eng mit der Industrie und Wirtschaft der Region verbunden. Die KU bringt durch ihre geisteswissenschaftliche Ausrichtung insbesondere soziale, gesellschaftliche und nachhaltige Aspekte ein. 
 Förderkennzeichen: 031HS109A
-Zur Webseite von `Mensch in Bewegung
-<https://mensch-in-bewegung.info/>`_
+
+Zur Webseite von `Mensch in Bewegung <https://mensch-in-bewegung.info/>`_
 
 
 Lizenz
