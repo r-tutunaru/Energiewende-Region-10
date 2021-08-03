@@ -1,8 +1,8 @@
-Willkommen! Hier finden Sie die Dokumentation zum Energiwendetool der Region 10!
+Willkommen! Hier finden Sie die Dokumentation zum Energiewendetool der Region 10!
 ================================================================================
 
-Das Tool „Energiewende regionalisieren“ dient dazu Ihre eigene Energiewendevision für die Region 10 zu etwickeln und visualiseren. Dabei werden Ihnen Optionen zum Ausbau der Erneuerbaren Energien sowie zur Entwicklung des Strombedarfs, Sektorkopplung und Batteriespeichern gegeben. Die Folgen Ihrer gewählten Einstellungen werden Ihnen anhand einer Karte der Region sowie mehrerer Grafiken dargestellt.
-Das Tool wurde von der `Technischen Hochschule Ingolsdat (THI)
+Das Tool „Energiewende regionalisieren“ dient dazu Ihre eigene Energiewendevision für die Region 10 zu entwickeln und visualiseren. Dabei werden Ihnen Optionen zum Ausbau der Erneuerbaren Energien sowie zur Entwicklung des Strombedarfs, Sektorkopplung und Batteriespeichern gegeben. Die Folgen Ihrer gewählten Einstellungen werden Ihnen anhand einer Karte der Region sowie mehrerer Grafiken dargestellt.
+Das Tool wurde von der `Technischen Hochschule Ingolstadt (THI)
 <https://www.thi.de/>`_ im Rahmen des Projekts
 `Mensch in Bewegung
 <https://mensch-in-bewegung.info/>`_ entwickelt.
