@@ -9,7 +9,7 @@ if "%SPHINXBUILD%" == "" (
 )
 set SOURCEDIR=source
 set BUILDDIR=build
-set SPHINXPROJ=doctut
+set SPHINXPROJ=Energiewenderegionalisieren
 
 if "%1" == "" goto help
 
